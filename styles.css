@@ -146,3 +146,20 @@ body {
     background-color: #f0f0f0; /* Fallback color */
   }
   
+.lyrics{
+    color: aliceblue;
+    font-family: cursive;
+}
+
+.chorus{
+    text-align: center;
+    color: aliceblue;
+    font-family: cursive;
+}
+
+
+.richard{
+    text-align: right;
+    color: aliceblue;
+    font-family: cursive;
+}
